@@ -1,4 +1,4 @@
-# rocketGame
+# Rocket Shooting Game
 This is a simple trail rocket game
 
 This is the quick review of this project
